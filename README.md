@@ -1,18 +1,32 @@
-
-Background Information
-
-
-
-The call centre manager is looking for transparency and insight into the data they have at the call centre. For example: total number of calls answered and abandoned, speed of answer, length of calls, overall customer satisfaction, etc. What he is after is an accurate overview of long-term trends in customer and agent behaviour. A dashboard on Call Centre trends that he can use as a basis for discussion with management? 
+Here is the background information on your task- A follow up from the call centre data analysis job done.
 
 
 
-The task is to Create a dashboard in Power BI for him that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.  
+A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
-Possible KPIs include (to get you started, but not limited to):
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at your company to cover these points:
+
+
+
+Customers in the telecom industry are hard-earned: we don’t want to lose them
+The retention department is here to get customers back in case of termination 
+Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
+We have done customer analysis with Excel: it has always ended in a dead-end
+We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
+
+
+The Retentions Manager has provided some information in the resources.
+
+
+
+Here is your task
+
+
+
+Your colleague, the engagement partner, asks you to do the following tasks:
+
+Define proper KPIs
+Create a dashboard for the retention manager reflecting the KPIs
+Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
